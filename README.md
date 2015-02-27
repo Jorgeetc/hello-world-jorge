@@ -1,4 +1,9 @@
 # hello-world-jorge
 Prueba de repositorio;
-Esto es codigo puro y duro
+
+
+No es código. 
+nuevos cambios, 
+eliminé una línea
+
 
